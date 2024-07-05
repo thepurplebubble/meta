@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community Support & Questions / Discussion
+    url: https://join.slack.com/t/thepurplebubble/signup
+    about: Please ask and answer questions here, as well as chat about Purple Bubble
+  - name: Security Vulnerabilities
+    url: mailto:jasper@purplebubble.org
+    about: Please report security vulnerabilities here.
