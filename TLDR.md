@@ -2,7 +2,10 @@
 
 # Introduction
 
-Hey! This is Purple Bubble. We're a crew of teens on a mission to make messaging epic again. Zero tracking, spying, or data selling. Everything is end-to-end encrypted, signed, and decentralized. All open source.
+
+We're Purple Bubble, a crew of teens on a mission to make messaging epic again! Tired of feeling like the product in those other apps? We get it. That's why we're building something new: an app that puts YOU in control. No ads, no data mining, no creepy algorithms. Just you, your friends, and a whole lot of fun.
+
+We're in the super-early stages (think building a pillow fort!), and we're looking for awesome testers to join our inner circle. You can sign up for our newsletter at [purplebubble.org](purplebubble.org) - we promise it'll be way more exciting than your dentist's newsletter. 4-5 updates a year, no spam.
 
 > **Wanna chat?**
 >
