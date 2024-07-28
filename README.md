@@ -1,4 +1,4 @@
-# Purple Bubble Meta
+# Purple Bubble
 
 Hi! 👋
 
