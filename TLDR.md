@@ -9,7 +9,7 @@ We're in the super-early stages (think building a pillow fort!), and we're looki
 
 > **Wanna chat?**
 >
-> We mostly communicate through the Purple Bubble Slack (email slack@purplebubble.org or ask someone that's already in the slack for an invite!), but you can also email us (team@purplebubble.org) or open a Github issue.
+> We mostly communicate through the Purple Bubble Slack, email slack@purplebubble.org or ask someone that's already in the slack for an invite!
  
 
 ## Protocol
