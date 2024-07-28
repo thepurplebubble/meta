@@ -12,3 +12,8 @@ This repo holds info on this project and where it's going. It's also got a guide
 
 🤝 Finally, here's our [code of conduct](CODE_OF_CONDUCT.md).
 
+## Poem
+In a bubble so purple, our project takes flight,
+With structure and purpose, it shines ever bright.
+A roadmap to guide us, with friends by our side,
+We hop through the changes, with joy and with pride! 🐰✨
